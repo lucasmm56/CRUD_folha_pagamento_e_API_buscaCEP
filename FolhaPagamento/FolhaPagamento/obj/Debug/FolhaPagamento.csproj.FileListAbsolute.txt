@@ -1,0 +1,83 @@
+C:\wamp64\www\_estudo\C sharp\CalculoMedia\FolhaPagamento\FolhaPagamento\bin\Debug\FolhaPagamento.exe.config
+C:\wamp64\www\_estudo\C sharp\CalculoMedia\FolhaPagamento\FolhaPagamento\bin\Debug\FolhaPagamento.exe
+C:\wamp64\www\_estudo\C sharp\CalculoMedia\FolhaPagamento\FolhaPagamento\bin\Debug\FolhaPagamento.pdb
+C:\wamp64\www\_estudo\C sharp\CalculoMedia\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.csprojAssemblyReference.cache
+C:\wamp64\www\_estudo\C sharp\CalculoMedia\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.Form3.resources
+C:\wamp64\www\_estudo\C sharp\CalculoMedia\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.Properties.Resources.resources
+C:\wamp64\www\_estudo\C sharp\CalculoMedia\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.csproj.GenerateResource.cache
+C:\wamp64\www\_estudo\C sharp\CalculoMedia\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.csproj.CoreCompileInputs.cache
+C:\wamp64\www\_estudo\C sharp\CalculoMedia\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.exe
+C:\wamp64\www\_estudo\C sharp\CalculoMedia\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.pdb
+C:\wamp64\www\_estudo\C sharp\CalculoMedia\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.CadastroProfessor.resources
+C:\wamp64\www\_estudo\C sharp\CalculoMedia\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.CadastroDiretor.resources
+C:\Users\ehf_v\Downloads\FolhaPagamento(1)\FolhaPagamento\FolhaPagamento\bin\Debug\FolhaPagamento.exe.config
+C:\Users\ehf_v\Downloads\FolhaPagamento(1)\FolhaPagamento\FolhaPagamento\bin\Debug\FolhaPagamento.exe
+C:\Users\ehf_v\Downloads\FolhaPagamento(1)\FolhaPagamento\FolhaPagamento\bin\Debug\FolhaPagamento.pdb
+C:\Users\ehf_v\Downloads\FolhaPagamento(1)\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.csproj.AssemblyReference.cache
+C:\Users\ehf_v\Downloads\FolhaPagamento(1)\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.CadastroProfessor.resources
+C:\Users\ehf_v\Downloads\FolhaPagamento(1)\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.CadastroDiretor.resources
+C:\Users\ehf_v\Downloads\FolhaPagamento(1)\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.Form3.resources
+C:\Users\ehf_v\Downloads\FolhaPagamento(1)\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.Properties.Resources.resources
+C:\Users\ehf_v\Downloads\FolhaPagamento(1)\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.csproj.GenerateResource.cache
+C:\Users\ehf_v\Downloads\FolhaPagamento(1)\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.csproj.CoreCompileInputs.cache
+C:\Users\ehf_v\Downloads\FolhaPagamento(1)\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.exe
+C:\Users\ehf_v\Downloads\FolhaPagamento(1)\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.pdb
+C:\Users\ehf_v\Downloads\FolhaPagamento(1)\FolhaPagamento\FolhaPagamento\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ehf_v\Downloads\FolhaPagamento(1)\FolhaPagamento\FolhaPagamento\bin\Debug\Newtonsoft.Json.xml
+C:\Users\incubadora06\Downloads\FolhaPagamento\FolhaPagamento\FolhaPagamento\bin\Debug\FolhaPagamento.exe.config
+C:\Users\incubadora06\Downloads\FolhaPagamento\FolhaPagamento\FolhaPagamento\bin\Debug\FolhaPagamento.exe
+C:\Users\incubadora06\Downloads\FolhaPagamento\FolhaPagamento\FolhaPagamento\bin\Debug\FolhaPagamento.pdb
+C:\Users\incubadora06\Downloads\FolhaPagamento\FolhaPagamento\FolhaPagamento\bin\Debug\EntityFramework.dll
+C:\Users\incubadora06\Downloads\FolhaPagamento\FolhaPagamento\FolhaPagamento\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\incubadora06\Downloads\FolhaPagamento\FolhaPagamento\FolhaPagamento\bin\Debug\Newtonsoft.Json.dll
+C:\Users\incubadora06\Downloads\FolhaPagamento\FolhaPagamento\FolhaPagamento\bin\Debug\EntityFramework.xml
+C:\Users\incubadora06\Downloads\FolhaPagamento\FolhaPagamento\FolhaPagamento\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\incubadora06\Downloads\FolhaPagamento\FolhaPagamento\FolhaPagamento\bin\Debug\Newtonsoft.Json.xml
+C:\Users\incubadora06\Downloads\FolhaPagamento\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.csprojAssemblyReference.cache
+C:\Users\incubadora06\Downloads\FolhaPagamento\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.CadastroProfessor.resources
+C:\Users\incubadora06\Downloads\FolhaPagamento\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.Form3.resources
+C:\Users\incubadora06\Downloads\FolhaPagamento\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.Properties.Resources.resources
+C:\Users\incubadora06\Downloads\FolhaPagamento\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.csproj.GenerateResource.cache
+C:\Users\incubadora06\Downloads\FolhaPagamento\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.csproj.CoreCompileInputs.cache
+C:\Users\incubadora06\Downloads\FolhaPagamento\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.csproj.CopyComplete
+C:\Users\incubadora06\Downloads\FolhaPagamento\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.exe
+C:\Users\incubadora06\Downloads\FolhaPagamento\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.pdb
+C:\Users\incubadora06\Downloads\FolhaPagamento\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.BuscaProfessor.resources
+C:\Users\LucasM\Downloads\FolhaPagamento (1)\FolhaPagamento\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.csproj.AssemblyReference.cache
+C:\Users\LucasM\Downloads\FolhaPagamento (1)\FolhaPagamento\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.csproj.SuggestedBindingRedirects.cache
+C:\Users\LucasM\Downloads\FolhaPagamento (1)\FolhaPagamento\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.CadastroProfessor.resources
+C:\Users\LucasM\Downloads\FolhaPagamento (1)\FolhaPagamento\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.Form3.resources
+C:\Users\LucasM\Downloads\FolhaPagamento (1)\FolhaPagamento\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.BuscaProfessor.resources
+C:\Users\LucasM\Downloads\FolhaPagamento (1)\FolhaPagamento\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.Properties.Resources.resources
+C:\Users\LucasM\Downloads\FolhaPagamento (1)\FolhaPagamento\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.csproj.GenerateResource.cache
+C:\Users\LucasM\Downloads\FolhaPagamento (1)\FolhaPagamento\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.csproj.CoreCompileInputs.cache
+C:\Users\LucasM\Downloads\FolhaPagamento (1)\FolhaPagamento\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.exe
+C:\Users\LucasM\Downloads\FolhaPagamento (1)\FolhaPagamento\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.pdb
+C:\Users\LucasM\Downloads\FolhaPagamento (1)\FolhaPagamento\FolhaPagamento\FolhaPagamento\bin\Debug\FolhaPagamento.exe.config
+C:\Users\LucasM\Downloads\FolhaPagamento (1)\FolhaPagamento\FolhaPagamento\FolhaPagamento\bin\Debug\FolhaPagamento.exe
+C:\Users\LucasM\Downloads\FolhaPagamento (1)\FolhaPagamento\FolhaPagamento\FolhaPagamento\bin\Debug\FolhaPagamento.pdb
+C:\Users\LucasM\Downloads\FolhaPagamento (1)\FolhaPagamento\FolhaPagamento\FolhaPagamento\bin\Debug\EntityFramework.dll
+C:\Users\LucasM\Downloads\FolhaPagamento (1)\FolhaPagamento\FolhaPagamento\FolhaPagamento\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LucasM\Downloads\FolhaPagamento (1)\FolhaPagamento\FolhaPagamento\FolhaPagamento\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LucasM\Downloads\FolhaPagamento (1)\FolhaPagamento\FolhaPagamento\FolhaPagamento\bin\Debug\EntityFramework.xml
+C:\Users\LucasM\Downloads\FolhaPagamento (1)\FolhaPagamento\FolhaPagamento\FolhaPagamento\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LucasM\Downloads\FolhaPagamento (1)\FolhaPagamento\FolhaPagamento\FolhaPagamento\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LucasM\Downloads\FolhaPagamento (1)\FolhaPagamento\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.csproj.CopyComplete
+C:\Users\Maiara\Desktop\Programas tdes\FolhaPagamento\FolhaPagamento\FolhaPagamento\FolhaPagamento\bin\Debug\FolhaPagamento.exe.config
+C:\Users\Maiara\Desktop\Programas tdes\FolhaPagamento\FolhaPagamento\FolhaPagamento\FolhaPagamento\bin\Debug\FolhaPagamento.exe
+C:\Users\Maiara\Desktop\Programas tdes\FolhaPagamento\FolhaPagamento\FolhaPagamento\FolhaPagamento\bin\Debug\FolhaPagamento.pdb
+C:\Users\Maiara\Desktop\Programas tdes\FolhaPagamento\FolhaPagamento\FolhaPagamento\FolhaPagamento\bin\Debug\EntityFramework.dll
+C:\Users\Maiara\Desktop\Programas tdes\FolhaPagamento\FolhaPagamento\FolhaPagamento\FolhaPagamento\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maiara\Desktop\Programas tdes\FolhaPagamento\FolhaPagamento\FolhaPagamento\FolhaPagamento\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Maiara\Desktop\Programas tdes\FolhaPagamento\FolhaPagamento\FolhaPagamento\FolhaPagamento\bin\Debug\EntityFramework.xml
+C:\Users\Maiara\Desktop\Programas tdes\FolhaPagamento\FolhaPagamento\FolhaPagamento\FolhaPagamento\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maiara\Desktop\Programas tdes\FolhaPagamento\FolhaPagamento\FolhaPagamento\FolhaPagamento\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Maiara\Desktop\Programas tdes\FolhaPagamento\FolhaPagamento\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.csproj.AssemblyReference.cache
+C:\Users\Maiara\Desktop\Programas tdes\FolhaPagamento\FolhaPagamento\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.CadastroProfessor.resources
+C:\Users\Maiara\Desktop\Programas tdes\FolhaPagamento\FolhaPagamento\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.Form3.resources
+C:\Users\Maiara\Desktop\Programas tdes\FolhaPagamento\FolhaPagamento\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.BuscaProfessor.resources
+C:\Users\Maiara\Desktop\Programas tdes\FolhaPagamento\FolhaPagamento\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.Properties.Resources.resources
+C:\Users\Maiara\Desktop\Programas tdes\FolhaPagamento\FolhaPagamento\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.csproj.GenerateResource.cache
+C:\Users\Maiara\Desktop\Programas tdes\FolhaPagamento\FolhaPagamento\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.csproj.CoreCompileInputs.cache
+C:\Users\Maiara\Desktop\Programas tdes\FolhaPagamento\FolhaPagamento\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.exe
+C:\Users\Maiara\Desktop\Programas tdes\FolhaPagamento\FolhaPagamento\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.pdb

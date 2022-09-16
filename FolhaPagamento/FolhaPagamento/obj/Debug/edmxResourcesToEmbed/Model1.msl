@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CodeFirstModelStoreContainer" CdmEntityContainer="CodeFirstEntities">
+    <EntitySetMapping Name="Professores">
+      <EntityTypeMapping TypeName="CodeFirstModel.Professor">
+        <MappingFragment StoreEntitySet="Professor">
+          <ScalarProperty Name="cidade" ColumnName="cidade" />
+          <ScalarProperty Name="numero" ColumnName="numero" />
+          <ScalarProperty Name="estado" ColumnName="estado" />
+          <ScalarProperty Name="bairro" ColumnName="bairro" />
+          <ScalarProperty Name="logradouro" ColumnName="logradouro" />
+          <ScalarProperty Name="cep" ColumnName="cep" />
+          <ScalarProperty Name="telefone" ColumnName="telefone" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="cpf" ColumnName="cpf" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
